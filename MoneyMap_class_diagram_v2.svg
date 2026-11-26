@@ -1,0 +1,300 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="1047.5" viewBox="0 0 1480 1047.5" font-family="Segoe UI, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#b5693a" stroke-width="1.3"/></marker></defs>
+<rect width="1480" height="1047.5" fill="#f5f8f8"/>
+<text x="19" y="30" font-size="22" font-weight="700" fill="#155e63">MoneyMap</text>
+<text x="19" y="48" font-size="11" fill="#555">22 classes / structs · UML class diagram (C++ notation)</text>
+<polyline points="669,112 682,112" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="655,112 662,105 669,112 662,119" fill="#2d6b73"/>
+<text x="676" y="126" font-size="8" fill="#2d6b73" text-anchor="start">1</text>
+<polyline points="592,58 592,47 1030,47 1030,72" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="592,72 599,65 592,58 585,65" fill="#2d6b73"/>
+<text x="810" y="42" font-size="9" fill="#2d6b73" text-anchor="middle">reports</text>
+<text x="1036" y="66" font-size="8" fill="#2d6b73" text-anchor="start">1</text>
+<polyline points="620,58 620,33 1280,33 1280,72" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="620,72 627,65 620,58 613,65" fill="#2d6b73"/>
+<text x="1040" y="28" font-size="9" fill="#2d6b73" text-anchor="middle">bank</text>
+<text x="1286" y="66" font-size="8" fill="#2d6b73" text-anchor="start">1</text>
+<polyline points="709,304.5 709,310.5 335,310.5 335,366.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="709,290.5 716,297.5 709,304.5 702,297.5" fill="#2d6b73"/>
+<text x="385" y="306.5" font-size="9" fill="#2d6b73" text-anchor="middle">shares</text>
+<text x="331" y="362.5" font-size="8" fill="#2d6b73" text-anchor="end">0..*</text>
+<polyline points="738,304.5 738,330.5 558,330.5 558,366.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="738,290.5 745,297.5 738,304.5 731,297.5" fill="#2d6b73"/>
+<text x="650" y="326.5" font-size="9" fill="#2d6b73" text-anchor="middle">goals</text>
+<text x="554" y="362.5" font-size="8" fill="#2d6b73" text-anchor="end">0..*</text>
+<polyline points="778,304.5 778,366.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="778,290.5 785,297.5 778,304.5 771,297.5" fill="#2d6b73"/>
+<text x="786" y="320.5" font-size="9" fill="#2d6b73" text-anchor="start">ledger</text>
+<text x="786" y="362.5" font-size="8" fill="#2d6b73" text-anchor="start">0..*</text>
+<polyline points="848,304.5 848,310.5 1405,310.5 1405,667.5 1377,667.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="848,290.5 855,297.5 848,304.5 841,297.5" fill="#2d6b73"/>
+<text x="1230" y="306.5" font-size="9" fill="#2d6b73" text-anchor="middle">statement</text>
+<text x="1381" y="663.5" font-size="8" fill="#2d6b73" text-anchor="end">0..*</text>
+<polyline points="892,416.5 932,416.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="878,416.5 885,409.5 892,416.5 885,423.5" fill="#2d6b73"/>
+<text x="912" y="411.5" font-size="8" fill="#2d6b73" text-anchor="middle">entry</text>
+<text x="924" y="430.5" font-size="8" fill="#2d6b73" text-anchor="end">1</text>
+<polyline points="1142,416.5 1183,416.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="1128,416.5 1135,409.5 1142,416.5 1135,423.5" fill="#2d6b73"/>
+<text x="1155" y="411.5" font-size="8" fill="#2d6b73" text-anchor="start">amount</text>
+<text x="1175" y="430.5" font-size="8" fill="#2d6b73" text-anchor="end">1</text>
+<polyline points="780,571.5 780,607.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polyline points="557,585.5 1030,585.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polyline points="557,585.5 557,607.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polyline points="1030,585.5 1030,607.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<polygon points="780,547.5 768,571.5 792,571.5" fill="#fff" stroke="#2d6b73" stroke-width="1.4"/>
+<text x="590" y="580.5" font-size="9" fill="#2d6b73" text-anchor="start">inherits</text>
+<text x="950" y="580.5" font-size="9" fill="#2d6b73" text-anchor="start">inherits</text>
+<polyline points="239,100 212,100" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="225" y="66" font-size="8" fill="#b5693a" text-anchor="middle">validate</text>
+<polyline points="460,100 432,100" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="446" y="66" font-size="8" fill="#b5693a" text-anchor="middle">render</text>
+<polyline points="932,150 878,150" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="905" y="145" font-size="8" fill="#b5693a" text-anchor="middle">reads</text>
+<polyline points="239,170 225,170 225,577.5 115,577.5 115,607.5" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<polyline points="225,577.5 335,577.5 335,607.5" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="240" y="573.5" font-size="8" fill="#b5693a" text-anchor="start">uses nested types</text>
+<polyline points="460,215 447,215 447,782.0 557,782.0 557,804.0" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="452" y="778.0" font-size="8" fill="#b5693a" text-anchor="start">Add → calculator::input()</text>
+<polyline points="460,839.0 432,839.0" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="446" y="799.0" font-size="8" fill="#b5693a" text-anchor="middle">throws</text>
+<polyline points="1128,175 1150,175 1150,782.0 1030,782.0 1030,804.0" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="1090" y="778.0" font-size="8" fill="#b5693a" text-anchor="middle">summarize()</text>
+<polyline points="1377,140 1435,140 1435,759.0 780,759.0 780,804.0" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="1000" y="755.0" font-size="8" fill="#b5693a" text-anchor="middle">bank → insights::analyze()</text>
+<polyline points="1377,160 1420,160 1420,844.0 1377,844.0" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="1414" y="744.0" font-size="8" fill="#b5693a" text-anchor="end">groups rows</text>
+<polyline points="1300,290.5 1300,366.5" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="1306" y="328.5" font-size="8" fill="#b5693a" text-anchor="start">returns Money</text>
+<rect x="19" y="72" width="193" height="218.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="19" y="72" width="193" height="36" fill="#8f5e3e"/>
+<text x="28" y="88" font-size="14" font-weight="700" fill="#fff">InputTools</text>
+<text x="28" y="101" font-size="8" fill="#e3ecec">utility class · common.hpp</text>
+<line x1="19" y1="126" x2="212" y2="126" stroke="#6f9094" stroke-width="1"/>
+<text x="27" y="138.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">+ parseAmount(s : const string&amp;)</text>
+<text x="27" y="150.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">    : Money</text>
+<text x="27" y="163.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">+ validDate(date : const string&amp;)</text>
+<text x="27" y="175.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">    : bool</text>
+<rect x="239" y="72" width="193" height="218.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="239" y="72" width="193" height="36" fill="#8f5e3e"/>
+<text x="248" y="88" font-size="14" font-weight="700" fill="#fff">TerminalUI</text>
+<text x="248" y="101" font-size="8" fill="#e3ecec">utility class · terminal.hpp</text>
+<line x1="239" y1="126" x2="432" y2="126" stroke="#6f9094" stroke-width="1"/>
+<text x="247" y="138.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">+ cards(group : vector&lt;Card&gt;,</text>
+<text x="247" y="150.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">    width : int) : void</text>
+<text x="247" y="163.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">+ table(title : const string&amp;,</text>
+<text x="247" y="175.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">    cols : vector&lt;Column&gt;,</text>
+<text x="247" y="188.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">    records : const</text>
+<text x="247" y="200.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" text-decoration="underline">    vector&lt;vector&lt;string&gt;&gt;&amp;) : void</text>
+<rect x="460" y="72" width="195" height="218.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="460" y="72" width="195" height="36" fill="#155e63"/>
+<text x="469" y="88" font-size="14" font-weight="700" fill="#fff">MoneyMapApp</text>
+<text x="469" y="101" font-size="8" fill="#e3ecec">class · application.hpp</text>
+<line x1="460" y1="155.5" x2="655" y2="155.5" stroke="#6f9094" stroke-width="1"/>
+<text x="468" y="120.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- w : Wallet</text>
+<text x="468" y="132.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- bank : BankStatementService</text>
+<text x="468" y="145.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- reports : WalletReports</text>
+<text x="468" y="167.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ run() : int</text>
+<text x="468" y="180.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- accounts() : void</text>
+<text x="468" y="192.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- setup() : void</text>
+<text x="468" y="205.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- addManual() : void</text>
+<text x="468" y="217.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- manageExpense() : void</text>
+<text x="468" y="230.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- goals() : void</text>
+<text x="468" y="242.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- payments() : void</text>
+<text x="468" y="255.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- settings() : void</text>
+<rect x="682" y="72" width="196" height="218.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="682" y="72" width="196" height="36" fill="#155e63"/>
+<text x="691" y="88" font-size="14" font-weight="700" fill="#fff">Wallet</text>
+<text x="691" y="101" font-size="8" fill="#e3ecec">class · wallet.hpp</text>
+<line x1="682" y1="218.0" x2="878" y2="218.0" stroke="#6f9094" stroke-width="1"/>
+<text x="690" y="120.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- ledger : vector&lt;unique_ptr&lt;</text>
+<text x="690" y="132.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    Transaction&gt;&gt;</text>
+<text x="690" y="145.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- opening : Money</text>
+<text x="690" y="157.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- budgets : map&lt;string, Money&gt;</text>
+<text x="690" y="170.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- priorities : map&lt;string, int&gt;</text>
+<text x="690" y="182.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- goals : vector&lt;Goal&gt;</text>
+<text x="690" y="195.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- shares : vector&lt;Share&gt;</text>
+<text x="690" y="207.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- statement : vector&lt;BankRow&gt;</text>
+<text x="690" y="230.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ add(kind : char, data : Entry)</text>
+<text x="690" y="242.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    : int</text>
+<text x="690" y="255.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ at(id : int) : Transaction&amp;</text>
+<text x="690" y="267.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ save() : void {query}</text>
+<text x="690" y="280.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ load() : void</text>
+<rect x="932" y="72" width="196" height="218.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="932" y="72" width="196" height="36" fill="#155e63"/>
+<text x="941" y="88" font-size="14" font-weight="700" fill="#fff">WalletReports</text>
+<text x="941" y="101" font-size="8" fill="#e3ecec">class · reports.hpp</text>
+<line x1="932" y1="126" x2="1128" y2="126" stroke="#6f9094" stroke-width="1"/>
+<text x="940" y="138.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ dashboard(w : const Wallet&amp;)</text>
+<text x="940" y="150.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    : void</text>
+<text x="940" y="163.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ report(w : const Wallet&amp;,</text>
+<text x="940" y="175.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    m : const string&amp;) : void</text>
+<text x="940" y="188.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ fullReport(w : const Wallet&amp;)</text>
+<text x="940" y="200.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    : void</text>
+<rect x="1183" y="72" width="194" height="218.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="1183" y="72" width="194" height="36" fill="#155e63"/>
+<text x="1192" y="88" font-size="14" font-weight="700" fill="#fff">BankStatementService</text>
+<text x="1192" y="101" font-size="8" fill="#e3ecec">class · bank.hpp</text>
+<line x1="1183" y1="126" x2="1377" y2="126" stroke="#6f9094" stroke-width="1"/>
+<text x="1191" y="138.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ menu(w : Wallet&amp;) : void</text>
+<text x="1191" y="150.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- importBank(w : Wallet&amp;) : void</text>
+<text x="1191" y="163.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- bankView(w : const Wallet&amp;,</text>
+<text x="1191" y="175.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    details : bool,</text>
+<text x="1191" y="188.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    full : bool = false) : void</text>
+<rect x="239" y="366.5" width="193" height="181.0" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="239" y="366.5" width="193" height="36" fill="#155e63"/>
+<text x="248" y="382.5" font-size="14" font-weight="700" fill="#fff">Share</text>
+<text x="248" y="395.5" font-size="8" fill="#e3ecec">struct · wallet.hpp</text>
+<line x1="239" y1="475.0" x2="432" y2="475.0" stroke="#6f9094" stroke-width="1"/>
+<text x="247" y="414.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ expenseId : int = 0</text>
+<text x="247" y="427.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ name : string</text>
+<text x="247" y="439.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ note : string</text>
+<text x="247" y="452.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ amount : Money</text>
+<text x="247" y="464.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ receiptId : int = 0</text>
+<rect x="460" y="366.5" width="195" height="181.0" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="460" y="366.5" width="195" height="36" fill="#155e63"/>
+<text x="469" y="382.5" font-size="14" font-weight="700" fill="#fff">Goal</text>
+<text x="469" y="395.5" font-size="8" fill="#e3ecec">struct · wallet.hpp</text>
+<line x1="460" y1="450.0" x2="655" y2="450.0" stroke="#6f9094" stroke-width="1"/>
+<text x="468" y="414.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ name : string</text>
+<text x="468" y="427.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ target : Money</text>
+<text x="468" y="439.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ saved : Money</text>
+<rect x="682" y="366.5" width="196" height="181.0" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="682" y="366.5" width="196" height="36" fill="#35577e"/>
+<text x="691" y="382.5" font-size="14" font-weight="700" fill="#fff" font-style="italic">Transaction</text>
+<text x="691" y="395.5" font-size="8" fill="#e3ecec">«Abstract» · wallet.hpp</text>
+<line x1="682" y1="425.0" x2="878" y2="425.0" stroke="#6f9094" stroke-width="1"/>
+<text x="690" y="414.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ entry : Entry</text>
+<text x="690" y="437.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ «destroy» ~Transaction() {virtual}</text>
+<text x="690" y="449.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" font-style="italic">+ kind() : char {query, abstract}</text>
+<text x="690" y="462.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve" font-style="italic">+ impact() : Money {query, abstract}</text>
+<rect x="932" y="366.5" width="196" height="181.0" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="932" y="366.5" width="196" height="36" fill="#155e63"/>
+<text x="941" y="382.5" font-size="14" font-weight="700" fill="#fff">Entry</text>
+<text x="941" y="395.5" font-size="8" fill="#e3ecec">struct · wallet.hpp</text>
+<line x1="932" y1="450.0" x2="1128" y2="450.0" stroke="#6f9094" stroke-width="1"/>
+<text x="940" y="414.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ id : int = 0</text>
+<text x="940" y="427.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ amount : Money</text>
+<text x="940" y="439.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ pattern : string</text>
+<rect x="1183" y="366.5" width="194" height="181.0" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="1183" y="366.5" width="194" height="36" fill="#155e63"/>
+<text x="1192" y="382.5" font-size="14" font-weight="700" fill="#fff">Money</text>
+<text x="1192" y="395.5" font-size="8" fill="#e3ecec">value class · wallet.hpp</text>
+<line x1="1183" y1="425.0" x2="1377" y2="425.0" stroke="#6f9094" stroke-width="1"/>
+<text x="1191" y="414.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- paise : Cents</text>
+<text x="1191" y="437.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ «create» Money(c : Cents)</text>
+<text x="1191" y="449.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ raw() : Cents {query}</text>
+<text x="1191" y="462.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ operator+(other : Money)</text>
+<text x="1191" y="474.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    : Money {query}</text>
+<text x="1191" y="487.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ operator-(other : Money)</text>
+<text x="1191" y="499.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    : Money {query}</text>
+<text x="1191" y="512.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ operator&gt;(other : Money)</text>
+<text x="1191" y="524.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    : bool {query}</text>
+<text x="1191" y="537.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ str() : string</text>
+<rect x="19" y="607.5" width="193" height="126.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="19" y="607.5" width="193" height="36" fill="#155e63"/>
+<text x="28" y="623.5" font-size="14" font-weight="700" fill="#fff">Column</text>
+<text x="28" y="636.5" font-size="8" fill="#e3ecec">nested struct · terminal.hpp</text>
+<line x1="19" y1="703.5" x2="212" y2="703.5" stroke="#6f9094" stroke-width="1"/>
+<text x="27" y="655.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ label : string</text>
+<text x="27" y="668.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ weight : int = 1</text>
+<text x="27" y="680.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ ink : string = &quot;39&quot;</text>
+<text x="27" y="693.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ right : bool = false</text>
+<rect x="239" y="607.5" width="193" height="126.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="239" y="607.5" width="193" height="36" fill="#155e63"/>
+<text x="248" y="623.5" font-size="14" font-weight="700" fill="#fff">Card</text>
+<text x="248" y="636.5" font-size="8" fill="#e3ecec">nested struct · terminal.hpp</text>
+<line x1="239" y1="691.0" x2="432" y2="691.0" stroke="#6f9094" stroke-width="1"/>
+<text x="247" y="655.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ title : string</text>
+<text x="247" y="668.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ rows : vector&lt;string&gt;</text>
+<text x="247" y="680.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ accent : string = &quot;39&quot;</text>
+<rect x="460" y="607.5" width="195" height="126.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="460" y="607.5" width="195" height="36" fill="#35577e"/>
+<text x="469" y="623.5" font-size="14" font-weight="700" fill="#fff">Income</text>
+<text x="469" y="636.5" font-size="8" fill="#e3ecec">derived class · wallet.hpp</text>
+<line x1="460" y1="661.5" x2="655" y2="661.5" stroke="#6f9094" stroke-width="1"/>
+<text x="468" y="673.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ kind() : char {query}</text>
+<text x="468" y="686.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ impact() : Money {query}</text>
+<rect x="682" y="607.5" width="196" height="126.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="682" y="607.5" width="196" height="36" fill="#35577e"/>
+<text x="691" y="623.5" font-size="14" font-weight="700" fill="#fff">Expense</text>
+<text x="691" y="636.5" font-size="8" fill="#e3ecec">derived class · wallet.hpp</text>
+<line x1="682" y1="661.5" x2="878" y2="661.5" stroke="#6f9094" stroke-width="1"/>
+<text x="690" y="673.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ kind() : char {query}</text>
+<text x="690" y="686.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ impact() : Money {query}</text>
+<rect x="932" y="607.5" width="196" height="126.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="932" y="607.5" width="196" height="36" fill="#35577e"/>
+<text x="941" y="623.5" font-size="14" font-weight="700" fill="#fff">Transfer</text>
+<text x="941" y="636.5" font-size="8" fill="#e3ecec">derived class · wallet.hpp</text>
+<line x1="932" y1="661.5" x2="1128" y2="661.5" stroke="#6f9094" stroke-width="1"/>
+<text x="940" y="673.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ kind() : char {query}</text>
+<text x="940" y="686.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ impact() : Money {query}</text>
+<rect x="1183" y="607.5" width="194" height="126.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="1183" y="607.5" width="194" height="36" fill="#155e63"/>
+<text x="1192" y="623.5" font-size="14" font-weight="700" fill="#fff">BankRow</text>
+<text x="1192" y="636.5" font-size="8" fill="#e3ecec">struct · wallet.hpp</text>
+<line x1="1183" y1="716.0" x2="1377" y2="716.0" stroke="#6f9094" stroke-width="1"/>
+<text x="1191" y="655.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ date : string</text>
+<text x="1191" y="668.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ narration : string</text>
+<text x="1191" y="680.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ key : string</text>
+<text x="1191" y="693.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ amount : Money</text>
+<text x="1191" y="705.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ debit : bool = false</text>
+<rect x="239" y="804.0" width="193" height="151.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="239" y="804.0" width="193" height="36" fill="#155e63"/>
+<text x="248" y="820.0" font-size="14" font-weight="700" fill="#fff">Cancelled</text>
+<text x="248" y="833.0" font-size="8" fill="#e3ecec">struct · calculator.hpp</text>
+<line x1="239" y1="858.0" x2="432" y2="858.0" stroke="#6f9094" stroke-width="1"/>
+<rect x="460" y="804.0" width="195" height="151.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="460" y="804.0" width="195" height="36" fill="#155e63"/>
+<text x="469" y="820.0" font-size="14" font-weight="700" fill="#fff">Expression</text>
+<text x="469" y="833.0" font-size="8" fill="#e3ecec">class · calculator.hpp</text>
+<line x1="460" y1="875.0" x2="655" y2="875.0" stroke="#6f9094" stroke-width="1"/>
+<text x="468" y="852.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- text : string</text>
+<text x="468" y="864.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">- pos : size_t = 0</text>
+<text x="468" y="887.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ «create» Expression(</text>
+<text x="468" y="899.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">    input : string)</text>
+<text x="468" y="912.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ evaluate() : Money</text>
+<rect x="682" y="804.0" width="196" height="151.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="682" y="804.0" width="196" height="36" fill="#155e63"/>
+<text x="691" y="820.0" font-size="14" font-weight="700" fill="#fff">Movement</text>
+<text x="691" y="833.0" font-size="8" fill="#e3ecec">struct · insights.hpp</text>
+<line x1="682" y1="912.5" x2="878" y2="912.5" stroke="#6f9094" stroke-width="1"/>
+<text x="690" y="852.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ date : string</text>
+<text x="690" y="864.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ time : string</text>
+<text x="690" y="877.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ label : string</text>
+<text x="690" y="889.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ amount : Money</text>
+<text x="690" y="902.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ kind : char</text>
+<rect x="932" y="804.0" width="196" height="151.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="932" y="804.0" width="196" height="36" fill="#155e63"/>
+<text x="941" y="820.0" font-size="14" font-weight="700" fill="#fff">Summary</text>
+<text x="941" y="833.0" font-size="8" fill="#e3ecec">nested struct · reports.hpp</text>
+<line x1="932" y1="937.5" x2="1128" y2="937.5" stroke="#6f9094" stroke-width="1"/>
+<text x="940" y="852.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ income : Money</text>
+<text x="940" y="864.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ expense : Money</text>
+<text x="940" y="877.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ net : Money</text>
+<text x="940" y="889.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ balance : Money</text>
+<text x="940" y="902.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ incomes : int = 0</text>
+<text x="940" y="914.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ expenses : int = 0</text>
+<text x="940" y="927.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ transfers : int = 0</text>
+<rect x="1183" y="804.0" width="194" height="151.5" fill="#fff" stroke="#6f9094" stroke-width="1"/>
+<rect x="1183" y="804.0" width="194" height="36" fill="#155e63"/>
+<text x="1192" y="820.0" font-size="14" font-weight="700" fill="#fff">Totals</text>
+<text x="1192" y="833.0" font-size="8" fill="#e3ecec">nested struct · bank.hpp</text>
+<line x1="1183" y1="887.5" x2="1377" y2="887.5" stroke="#6f9094" stroke-width="1"/>
+<text x="1191" y="852.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ out : Money</text>
+<text x="1191" y="864.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ in : Money</text>
+<text x="1191" y="877.0" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ count : int = 0</text>
+<text x="1191" y="899.5" font-size="8" font-family="Consolas, Courier New, monospace" fill="#2b3a3d" xml:space="preserve">+ add(r : const BankRow&amp;) : void</text>
+<rect x="19" y="981.5" width="1180" height="46" fill="#fff" stroke="#9db5b8"/>
+<text font-weight="700" x="29" y="997.5" font-size="10" fill="#333" text-anchor="start">Legend</text>
+<polygon points="109,995.5 116,988.5 123,995.5 116,1002.5" fill="#2d6b73"/>
+<polyline points="123,995.5 149,995.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<text x="155" y="998.5" font-size="9" fill="#333" text-anchor="start">Composition (whole owns part)</text>
+<polygon points="349,989.5 349,1001.5 337,995.5" fill="#fff" stroke="#2d6b73" stroke-width="1.3"/>
+<polyline points="349,995.5 375,995.5" fill="none" stroke="#2d6b73" stroke-width="1.4"/>
+<text x="381" y="998.5" font-size="9" fill="#333" text-anchor="start">Inheritance (hollow triangle → base class)</text>
+<polyline points="659,995.5 691,995.5" fill="none" stroke="#b5693a" stroke-width="1.2" stroke-dasharray="5 3" marker-end="url(#arr)"/>
+<text x="699" y="998.5" font-size="9" fill="#333" text-anchor="start">Dependency (uses temporarily)</text>
+<text x="29" y="1017.5" font-size="9" fill="#333">+ public · - private · # protected · </text>
+<text x="254" y="1017.5" font-size="9" fill="#333" text-decoration="underline">underline</text><text x="302" y="1017.5" font-size="9" fill="#333"> = static · </text><text x="359" y="1017.5" font-size="9" fill="#333" font-style="italic">italic</text><text x="387" y="1017.5" font-size="9" fill="#333"> = abstract · {query} = const method · «create»/«destroy» = constructor/destructor · 0..* = zero or many</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0MzkyYzQ4ZS00MjRlLTQwOGEtODUwNi1mMjFjMmM2OTNkYzgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFohTV4JlCSd8REZpZ/F1eAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMzI2ZDQyOS01MDRhLTRkOWYtODhiNi04Mzc1MGRiMzliYmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonaqqRJxo0Qsfsx+3zwRfzwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg343UdFkNqAQB66K90Jrd6Kp5x258Y1hiwgKZ6JhjEZekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIlZUdM3blHLIEDyvdum7+oAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIE1I1HTC4htyNeNrpYoAsM8X+UNEi7o8ZUW2T+P5DMQWZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GYYDZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQzOTJjNDhlLTQyNGUtNDA4YS04NTA2LWYyMWMyYzY5M2RjOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI4ZDk0ZGRkLTljMjEtNGQ4Ni05YWU1LWM0NjI5ZTkxMmY1MnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDfjdR0WQ2oBAHror3Qmt3oqnnHbnxjWGLCApnomGMRl6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxp06miw3+flrAoF8eDEOK+FwJ5qzjgUY+fDpmYLBizOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggVwjCenAaDde1hfziRZTdyB/+r6o4fDTK1g0KAJkYbOp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAeO6CI0NZqRewhVIqCt9GiV/wzbTzK5TUNxY/XPEd1AxECRQ40eIToO/MTA9I947Tg7afe/a49EmCrg41fbeyw=</c2pa:manifest></metadata></svg>
