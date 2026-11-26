@@ -17,30 +17,56 @@ MoneyMap is a local, keyboard-driven personal-finance application. It records in
 
 ## Requirements
 
-- Windows Terminal, PowerShell, or a UTF-8 capable terminal.
-- A C++20 compiler such as MinGW-w64 `g++` (only needed when rebuilding).
+- Git to clone the repository (or download and extract its ZIP).
+- A UTF-8 capable terminal, such as Windows Terminal or VS Code's integrated terminal.
+- A C++20 compiler such as MinGW-w64 `g++` to build from source. VS Code's C++ extension alone does not install a compiler.
 
-## Run the supplied build
+## Clone the repository
 
-Open this folder in VS Code, open **Terminal → New Terminal**, then run:
+Copy the HTTPS clone URL from this repository's **Code** button. Replace `REPOSITORY_URL` below with that URL. The final argument creates a local folder named `MoneyMap`, regardless of the repository's name.
+
+```sh
+git clone REPOSITORY_URL MoneyMap
+cd MoneyMap
+```
+
+Already cloned? Open your cloned folder in VS Code using **File → Open Folder**, then choose **Terminal → New Terminal**. There is no need to clone again.
+
+Run the following commands from the folder containing `main.cpp`, `application.cpp`, `wallet.cpp`, `bank.cpp`, and `reports.cpp`. If those files are inside a subfolder, open that subfolder in VS Code first.
+
+## Build and run
+
+### Windows — PowerShell
+
+Check that your compiler is available:
 
 ```powershell
-cd "D:\code\OOP_PROJECT\MoneyMap-OOP"
+g++ --version
+```
+
+Compile the application, then run it after compilation succeeds:
+
+```powershell
+g++ -std=c++20 -Wall -Wextra -Wpedantic main.cpp application.cpp wallet.cpp bank.cpp reports.cpp -o MoneyMap.exe
 .\MoneyMap.exe
 ```
 
-If your folder is elsewhere, use that folder in the `cd` command. Keep the executable in a writable folder because it creates account CSV files and a temporary `wallet.lock` file.
+If `g++` is not recognized, install a C++20-capable compiler, add its `bin` folder to your `PATH`, and restart the terminal.
 
-## Build from source
+If the repository includes the supplied Windows executable, you can skip compilation and run ` .\MoneyMap.exe ` directly from its folder.
 
-```powershell
-g++ -std=c++20 -Wall -Wextra -Wpedantic -static `
-  main.cpp application.cpp wallet.cpp bank.cpp reports.cpp `
-  -o MoneyMap.exe
-.\MoneyMap.exe
+### Linux / macOS — terminal
+
+With a C++20-capable `g++` compiler installed:
+
+```sh
+g++ -std=c++20 -Wall -Wextra -Wpedantic main.cpp application.cpp wallet.cpp bank.cpp reports.cpp -o MoneyMap
+./MoneyMap
 ```
 
-On a non-Windows shell, replace the final command with `./MoneyMap.exe` (or the name produced by your compiler).
+On macOS, `clang++` can be used in place of `g++`. The supplied `.exe` is a Windows build; other platforms must compile the source.
+
+Always start MoneyMap from the same writable project folder so it finds the same account CSV files. Account files and the session lock are stored relative to the terminal's current directory.
 
 ## First use
 
